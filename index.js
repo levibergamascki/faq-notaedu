@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Head from 'next/head';
-import Card from '../components/Card';
+import Card from './components/Card';
 
 
 function HomePage(){
